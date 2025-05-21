@@ -14,8 +14,8 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
+#lib/
+#lib64/
 parts/
 sdist/
 var/
@@ -175,3 +175,5 @@ cython_debug/
 
 # Ignore Mac DS_Store files
 .DS_Store
+
+.idea/
